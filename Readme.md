@@ -1,5 +1,9 @@
 # Linux CVFS - Architecture Documentation
 
+**Author**: Om Wakhare   
+**Last Updated**: 2025  
+**Version**: 1.0.0
+
 This document provides a detailed architectural overview of the Linux Custom Virtual File System (CVFS), explaining its design principles, components, and data flow.
 
 ## Table of Contents
@@ -436,3 +440,7 @@ The current design has inherent scalability limitations:
 ---
 
 This architecture documentation provides a comprehensive understanding of the Linux CVFS design and implementation. The system demonstrates fundamental file system concepts while maintaining simplicity for educational purposes.
+
+
+
+
